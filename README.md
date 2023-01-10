@@ -1,16 +1,15 @@
 ### 👋 안녕하세요 QA 엔지니어 김혜연입니다.
 
-#### 💁🏻‍♀️  **About me.**
+#### **About me.**
 
 - 계획대로 추구하는 것을 좋아하는 ISFJ
 - 한번 꽂히면 자석처럼 붙는 추진력 👀🔥
 - 도전하는 노력형 🏃🏻‍♀️
 
-#### 📋  Certificate
+#### Certificate.
 - ISTQB FL
 - SQLD
 
-#### 🛠 Skill.👇🏻 
+#### Skill.👇🏻 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeye-log&layout=compact"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=heeye-log&show_icons=true">
-- Database : My SQL [쿼리문 작성 및 데이터 추출 가능]
