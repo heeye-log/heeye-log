@@ -1,18 +1,16 @@
-### 안녕하세요👋
+### 👋 안녕하세요 QA 엔지니어 김혜연입니다.
 
-<!--
-**heeye-log/heeye-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💁🏻‍♀️  **About me.**
 
-Here are some ideas to get you started:
+- 계획대로 추구하는 것을 좋아하는 ISFJ
+- 한번 꽂히면 자석처럼 붙는 추진력 👀🔥
+- 도전하는 노력형 🏃🏻‍♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📋  Certificate
+- ISTQB FL
+- SQLD
+
+#### 🛠 Skill.👇🏻 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeye-log&layout=compact"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=heeye-log&show_icons=true">
+- Database : My SQL [쿼리문 작성 및 데이터 추출 가능]
