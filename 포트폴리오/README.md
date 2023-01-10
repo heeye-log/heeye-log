@@ -2,9 +2,9 @@
 안녕하세요. QA 엔지니어 김혜연입니다.
 <br></br>
 
-## Work Experience
+# Work Experience
 
-### 체중관리 건강노트 App
+## 체중관리 건강노트 App
 
 [프로젝트 참여 기간] 2022.10 - 2022.12
 
@@ -18,6 +18,29 @@
 [프로젝트 인원] QA 3명
 
 [본인 역할]
+- Full TC 설계 (테스트 고도화)
+- 탐색적 테스트 수행 및 이슈 관리
+- CS 기반 개선 확인 및 유지 보수 관리
+- App 배포 이후 프로젝트 회고 참여
+
+
+
+## Airchat Web
+
+
+[프로젝트 참여 기간] 2022.05 - 2022.10
+
+[프로젝트 내용] 현대자동차, 제네시스 홈페이지 내 챗봇을 통해 상담사 대신 기본 자동차 정비, 구매관련 QnA 시범 서비스
+
+[프로젝트 인원] PL 1명, TE 4명
+
+[본인 역할]
+- 프로젝트 리딩
+- Error, Common, Maintenance 항목 TC 설계
+- [TC 내 진행도 파악할 수 있는 테이블 제작](https://github.com/heeye-log/heeye-log/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/Progress%20Table.md)
+- 챗봇 웹 기능 테스트 수행 및 이슈 관리
+- 주요 브라우저 및 디바이스 호환성 테스트 수행
+
 
 
 ## 산출물 관리 📋
@@ -25,4 +48,4 @@
 프로젝트 진행 시 보완하고 싶거나 개선 했던 산출물 정리
 
 - [이슈별 현황 차트 대시보드 제작](https://github.com/heeye-log/heeye-log/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%82%B0%EC%B6%9C%EB%AC%BC/Issue_Dashboard.md)
-- [TC 진행도 테이블 제작](https://github.com/heeye-log/heeye-log/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/Progress%20Table.md)
+- 
