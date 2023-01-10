@@ -15,7 +15,7 @@
 ![collage](https://user-images.githubusercontent.com/121289071/211623505-19afb943-58d8-44f2-b2f8-91229d88e4fb.png)
 ![collage2](https://user-images.githubusercontent.com/121289071/211623515-d20e47ec-54bb-4606-b57d-5bcf8ef54fa2.png)
 
-[프로젝트 인원] QA 3명
+[프로젝트 인원] 팀장 1명, QA 2명
 
 [본인 역할]
 - Full TC 설계 (테스트 고도화)
