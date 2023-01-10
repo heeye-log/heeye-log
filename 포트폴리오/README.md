@@ -14,6 +14,18 @@
 ## Work Experience
 
 ### 체중관리 건강노트 App
-<img src="https://play-lh.googleusercontent.com/7Kob-3EDE2K4uqVC_k9oFN1sACVZFA3jkj53sSP6CeCz78cp5VnCcef6Sv-_F3OaLw=w2560-h1440-rw" height="600px" width="350px" align="left"><img src="https://play-lh.googleusercontent.com/EstsQ3KEPdcUZsqaHfOf3wmzGjKST6Hz84Tmcw2VhQnWPAqK7dsHMZJkXZsbLCEjUR8p=w2560-h1440-rw" height="600px" width="350px" align="left">
 
-<img src="https://play-lh.googleusercontent.com/Gpi1SXzrtMULT9lomD9cXqbdWvxLFnBN3FKyXGUkhWdu2bUgWVkU7h1tRKoHsMalKH0=w2560-h1440-rw" height="600px" width="350px" align="left"><img src="https://play-lh.googleusercontent.com/nDX_o3jUvqB1qdGPZqkuxgEviqvklJRwDdWjpDVmbiafK1xkx9dZ-zI83b5YsQT6we8=w2560-h1440-rw" height="600px" width="350px" align="left">
+[프로젝트 참여 기간] 
+
+[프로젝트 내용] 대한비만학회 협업 체중관리 및 습관 미션 서비스 
+
+- [구글 플레이 스토어 바로가기](https://play.google.com/store/apps/details?id=net.huray.ksso)
+
+![collage](https://user-images.githubusercontent.com/121289071/211623505-19afb943-58d8-44f2-b2f8-91229d88e4fb.png)
+![collage2](https://user-images.githubusercontent.com/121289071/211623515-d20e47ec-54bb-4606-b57d-5bcf8ef54fa2.png)
+
+[프로젝트 인원] QA 3명
+
+[본인 역할]
+
+
