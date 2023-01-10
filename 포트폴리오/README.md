@@ -37,7 +37,7 @@
 [본인 역할]
 - 프로젝트 리딩
 - Error, Common, Maintenance 항목 TC 설계
-- [TC 내 진행도 파악할 수 있는 테이블 제작](https://github.com/heeye-log/heeye-log/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/Progress%20Table.md)
+- [TC 내 진행도 파악할 수 있는 테이블 제작](https://github.com/heeye-log/heeye-log/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%82%B0%EC%B6%9C%EB%AC%BC/Progress%20Table.md)
 - 챗봇 웹 기능 테스트 수행 및 이슈 관리
 - 주요 브라우저 및 디바이스 호환성 테스트 수행
 
