@@ -4,7 +4,7 @@
 
 # Work Experience
 
-체중관리 건강노트 App ```2022.10 - 2022.12```
+<B>체중관리 건강노트 App</b> ```2022.10 - 2022.12```
 - 대한비만학회 협업 체중관리 및 생활습관 코칭 서비스 앱
 - [구글 플레이 스토어 바로가기](https://play.google.com/store/apps/details?id=net.huray.ksso)
 
