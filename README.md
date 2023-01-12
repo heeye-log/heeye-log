@@ -11,5 +11,5 @@
 - SQLD
 
 #### 👇🏻 Skill  &  [Portfolio](https://github.com/heeye-log/heeye-log/tree/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeye-log&layout=compact"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=heeye-log&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=heeye-log&layout=compact"><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heeye-log&show_icons=true">
