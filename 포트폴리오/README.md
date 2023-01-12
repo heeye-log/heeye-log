@@ -9,16 +9,9 @@
 - [구글 플레이 스토어 바로가기](https://play.google.com/store/apps/details?id=net.huray.ksso)
 
 
-## Airchat Web
+Airchat Web ```2022.05 - 2022.10```
+- 현대자동차, 제네시스 홈페이지 내 챗봇을 통해 기본 자동차 정비, 구매관련 자동 QnA 시범 서비스
 
-
-[프로젝트 참여 기간] 2022.05 - 2022.10
-
-[프로젝트 내용] 현대자동차, 제네시스 홈페이지 내 챗봇을 통해 기본 자동차 정비, 구매관련 자동 QnA 시범 서비스
-
-[프로젝트 인원] PL 1명, TE 4명
-
-[본인 역할]
 - 프로젝트 리딩
 - Error, Common, Maintenance 항목 TC 설계
 - [TC 내 진행도 파악할 수 있는 테이블 제작](https://github.com/heeye-log/heeye-log/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/%EC%82%B0%EC%B6%9C%EB%AC%BC/Progress%20Table.md)
