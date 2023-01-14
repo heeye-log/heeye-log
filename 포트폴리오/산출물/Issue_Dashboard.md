@@ -13,7 +13,8 @@
 - QA 차수 상태 별, 이슈 유형 별 현 상황을 한눈에 볼 수 있는 이슈 대시 보드 제안 및 제작하게 됨
 
 ### **개선한 점**
-<img width="626" alt="스크린샷 2022-07-28 오후 11 42 23" src="https://user-images.githubusercontent.com/121289071/211565860-8991044f-db2c-4fbe-bdfd-7be97c83c31d.png">
+
+<img width="626" alt="211565860-8991044f-db2c-4fbe-bdfd-7be97c83c31d" src="https://user-images.githubusercontent.com/121289071/212480180-551dc7b7-606f-49ff-9bb5-b15672194acf.png">
 
 - 위와 같이 대시보드 생성 후 효과적으로 이슈 현황 파악되며 레포트 작성 시간 및 이슈 검색 시간 단축되어 검토하기 수월했음
 - 잔여 이슈 상태, 주요 발생 이슈 차트 확인하여 회귀 테스트 계획 짜는데 유용했음
