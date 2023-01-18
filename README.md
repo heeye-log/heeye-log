@@ -10,5 +10,5 @@
 - ISTQB FL
 - SQLD
 
-#### 👇🏻 Skill  &  [Portfolio](https://github.com/heeye-log/heeye-log/tree/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
+#### 👇🏻 Skill  &  [Portfolio](https://github.com/heeye-log/heeye-log/tree/main/Portfolio)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heeye-log&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
