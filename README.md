@@ -6,8 +6,4 @@
 - 도전하는 노력형 🏃🏻‍♀️
 
 
-#### Certificate.
-- ISTQB FL
-- SQLD
-
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heeye-log&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
