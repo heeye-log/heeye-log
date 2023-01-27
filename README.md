@@ -10,5 +10,4 @@
 - ISTQB FL
 - SQLD
 
-#### [Portfolio](https://github.com/heeye-log/heeye-log/tree/main/Portfolio)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heeye-log&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
